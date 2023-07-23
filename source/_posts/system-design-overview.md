@@ -2,7 +2,7 @@
 title: 系统设计概览
 date: 2023-07-19 21:39:05
 tags: 系统设计
-categories: 编程
+categories: 计算机
 ---
 
 
