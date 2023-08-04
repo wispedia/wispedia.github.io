@@ -99,6 +99,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 ## https://www.haomwei.com/technology/maupassant-hexo.html
 theme: maupassant
+mathjax: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
