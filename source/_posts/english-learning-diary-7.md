@@ -135,3 +135,5 @@ DAVIS: It can because, you know, a lot of athletic wear isn't cheap. But Alison 
 SEGARRA: All right. So what else should people keep in mind before they head out the door to run in the cold?
 
 DAVIS: Safety is a big one. In the winter, there aren't as many hours of light. So more people might end up running in the dark.
+
+<iframe src="https://www.npr.org/player/embed/1199885882/1216562931" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
