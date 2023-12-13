@@ -7,7 +7,7 @@ categories: 英语
 
 ## 语法
 
-![Pronouns](./english-learning-diary-5/Pronouns.png)
+![Pronouns](./english-learning-diary-6/Pronouns.png)
 
 ## 词汇
 
