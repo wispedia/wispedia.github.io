@@ -88,3 +88,5 @@ LEW: I'm going to go get a snack. Anyone want anything? Cool. Bye. I've got to g
 SEGARRA: Now, maybe you don't want to completely piece out or avoid a person or one of these uncomfortable conversations. Takeaway two - try keeping your responses to a minimum. Deflect, set a boundary, or redirect. These kinds of responses are a small way to engage but keep it moving. Say you have a family member who's peppering you with ***intrusive*** questions that you don't want to answer and you want to get that point across, Nedra Glover Tawwab is a licensed therapist and author, and she says one option is to just say that directly.
 
 GLOVER TAWWAB: I don't want to talk about it. I don't want to talk about dating. I don't want to talk about having kids. My thoughts about it aren't even fully processed, you know? So I'm still in the thinking phase, you know, even saying that, I'm still in the thinking phase about it.
+
+<iframe src="https://www.npr.org/player/embed/1196978388/1219103386" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
