@@ -72,7 +72,7 @@ LEW: Because I don't even know if my family member wants me to come in and stand
 
 SEGARRA: If they have their phone on hand, you could always text them as everyone's talking and see if they want you to step in. Or you could just find a way to interject about some other topic to get them out of the room.
 
-LEW: I really like doing things in kind of a sly way. So if it's that person and I need to go, like, refill the dinner ***rolls***, then I'm going to say, oh, hey, so-and-so. Could you come help me grab this thing? And I can check in with them really quickly. And I also give them a nice, easy exit out of the situation itself.
+LEW: I really like doing things in kind of a ***sly*** way. So if it's that person and I need to go, like, refill the dinner ***rolls***, then I'm going to say, oh, hey, so-and-so. Could you come help me grab this thing? And I can check in with them really quickly. And I also give them a nice, easy exit out of the situation itself.
 
 SEGARRA: And then, be curious.
 
