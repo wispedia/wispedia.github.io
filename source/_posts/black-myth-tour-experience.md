@@ -57,9 +57,9 @@ categories: 杂谈
 ![闪身](./black-myth-tour-experience/闪身.gif)
 
 ### 切手技
-组合技，轻攻击的过程中接续重攻击
+组合技，轻攻击的过程中接续重攻击, 切手技的效果和当前所选择的棍法以及当前的加点情况有关，图示为立棍的切手技。
 
-![闪身](./black-myth-tour-experience/闪身.gif)
+![切手技](./black-myth-tour-experience/切手技.gif)
 
 ### 识破
 在敌人发起进攻到击中之前使用切手技，则回触发识破，可以抵消伤害
