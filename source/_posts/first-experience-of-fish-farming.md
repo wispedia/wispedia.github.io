@@ -16,32 +16,32 @@ categories: 杂谈
 我并非懒人，但对未知之事，常有一种莫名的畏惧。那时我心中也颇多疑虑，不知该如何开始，且担心若一着不慎，反致缸损坏，便更无趣了。
 
 为了破此困境，我买了一本薄书，名曰《水族造景一本通》。通不通不得而知，但读完之后，倒是略得其门径。我于是确立方向——要养水草缸。不是那种放几块石头、几条金鱼的玩具缸，而是一个有造景、有流动、有生息的缸。
-![水族造景一本通](./first-experience-of-fish-farming/水族造景一本通.png)
+![水族造景一本通](./first-experience-of-fish-farming/水族造景一本通.jpeg)
 
 于是网购，买火山石、水草泥、造景石，又买了无菌水草杯若干。货到齐了，选了一个晚上“开缸”。过程远比我想象中曲折——水草根短，我泥铺得又薄，草便漂浮起来，一再重种。那晚执着一把细镊，蹲在缸前，夹一株歪一株，反复数十次，连手指都发酸了。待到水草基本立住，我才坐下喝水，虽疲惫，却有些小得意。
-![铺水草泥，放造景石](./first-experience-of-fish-farming/刚开缸.png)
-![种水草，加水](./first-experience-of-fish-farming/刚加水.png)
+![铺水草泥，放造景石](./first-experience-of-fish-farming/刚开缸.jpeg)
+![种水草，加水](./first-experience-of-fish-farming/刚加水.jpeg)
 
 草缸初成，我便去附近水族店买鱼。天使鱼三尾，另有三尾，品种不详，皆是店主推荐的。我本不识鱼，且相信“专家”，便照单全收。
 
-![鱼买回来了](./first-experience-of-fish-farming/刚加鱼.png)
+![鱼买回来了](./first-experience-of-fish-farming/刚加鱼.jpeg)
 
 起初日子尚好。我每日坐看鱼儿游动，水草轻摆，似也能解些烦闷。棠棠对此尤感兴趣，几乎每日抢着喂鱼。她兴致极高，我便乐得清闲。可惜好景不长，鱼便病了。白点生鳍，尾巴溃烂，我一时手足无措，只好上网查方，买药、升温、换水、下亚甲基蓝……几番折腾，鱼竟也活了下来。这事让我稍感慰藉，似乎证明我并非草包。
-![棠棠看鱼](./first-experience-of-fish-farming/棠棠看鱼.png)
-![鱼开始长白点](./first-experience-of-fish-farming/鱼白点.png)
-![鱼好了](./first-experience-of-fish-farming/鱼好了.png)
+![棠棠看鱼](./first-experience-of-fish-farming/棠棠看鱼.jpeg)
+![鱼开始长白点](./first-experience-of-fish-farming/鱼白点.jpeg)
+![鱼好了](./first-experience-of-fish-farming/鱼好了.jpeg)
 
 然而人总是容易厌倦的。水草长得不如我所愿，没有绿意盎然之态，反而杂乱无章。我渐渐便少去了兴致，棠棠偶尔还来喂鱼，我只是点点头，懒得查看。久而久之，连换水也变得偶尔而为。
 
 年末回家数日，回来一看，鱼缸已近荒废：草死，藻多，鱼死两尾（后来看应是钻入石缝被卡而亡，不能怪我），水发黄，味不佳。我本想弃之，然缸中尚有几尾鱼，竟顽强地活着，我便又心软了。
 
-![长藻了](./first-experience-of-fish-farming/长藻了.png)
+![长藻了](./first-experience-of-fish-farming/长藻了.jpeg)
 
 直到前些日子，不知为何，又起了翻缸的念头。也许是厌倦了日复一日的无趣，想着做点“出格”之事以示我还活着。于是我又买草、买泥、换滤材，甚至重金购入二氧化碳系统，颇有一种“中年人花钱图一乐”的意味。
 
 这回经验丰富，动手时已不再慌张。新缸造好，乍一看也还像模像样。可过了两日，水混草烂，又是一番忙乱。换水、控光、测参数、调气泵，日日忙得不亦乐乎。有人或许觉得麻烦，我却觉得这正是乐趣之所在——每天都有些变数，总比一成不变的日子强些。
-![大的水草还是好看](./first-experience-of-fish-farming/新缸.png)
-![开始打二氧化碳](./first-experience-of-fish-farming/二氧化碳.png)
+![大的水草还是好看](./first-experience-of-fish-farming/新缸.jpeg)
+![开始打二氧化碳](./first-experience-of-fish-farming/二氧化碳.jpeg)
 
 我便把这些经历记在此处，若将来棠棠或筱筱有兴致，不妨拿去看看。
 
