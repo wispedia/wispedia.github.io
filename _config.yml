@@ -105,5 +105,5 @@ mathjax: true
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com-personal:wispedia/wispedia.github.io.git
+  repo: git@github.com:wispedia/wispedia.github.io.git
   branch: pages
